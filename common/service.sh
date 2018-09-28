@@ -2,5 +2,8 @@
 #while [ "`getprop gsm.sim.operator.iso-country`" == "" ]; do
 #echo aaa
 sleep 90
-#done
+setprop gsm.sim.operator.iso-country us
+sleep 45
+setprop gsm.sim.operator.iso-country us
+sleep 45
 setprop gsm.sim.operator.iso-country us
