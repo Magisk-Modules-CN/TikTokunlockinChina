@@ -24,7 +24,7 @@ If you not live in China, please don't install.
 感谢大佬对安卓抖音国际版锁区的研究。
 * [@酷安联盟少侠](http://www.coolapk.com/u/602894)
 emmmm，我自己也是需要感谢的。
-* [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/-/issues/new)
+* [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/TikTok-unlock-in-China/issues/new)
 
 
 
