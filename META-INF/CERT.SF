@@ -1,0 +1,25 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5P3axBYssZxI0D3hnpxJelU5F2o=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest-Manifest: ppOano6F3cDFxzar1+rFcPCoA78=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: PlLPAI6N9TQtF/YCAUPdSKapssY=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: VJvL32Kgn3r0mLHw8YEc77HAwV0=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: /HwlmCnmJqtSZuD5QkPXT+UvtBE=
+
+Name: config.sh
+SHA1-Digest-Manifest: vealw1+z5fOFBEx8rR0zBkHmqKg=
+
+Name: README.md
+SHA1-Digest-Manifest: 3qCE03h1sdIo2EnCzJvOOT7z1Xo=
+
