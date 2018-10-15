@@ -44,6 +44,7 @@ emmmm，我自己也是需要感谢的。
 ## Feedback 问题反馈
 * [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/TikTok-unlock-in-China/issues/new)
 
+## Update Log 更新日志
 
 #V1.0.1 修复一个可能因为开机过慢导致被覆盖的问题
 
