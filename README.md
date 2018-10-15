@@ -2,22 +2,22 @@
 
 首先我对抖音国际版本（美版和亚洲版本），锁区表示鄙视。
 
-first please allow me to show scorn to the locking of TikTok (American & Asian version)
-
 其实进去的方法也有很多，那个对咱们方便就用那个。
-
-There’re actually many ways to get access to it and we’ll choose the easier one.
 
 我已经升级到Android 9.0了，没有Xposed。于是就找到了另一个方法。同样实现此目标。
 
-I’ve already updated my device to Android Pie in which Xposed is not available. And I found another way to achieve this goal.
-
 开机之后请耐心等待一分钟。
 
-Please wait a minute after booting.
-
-
 此模块不会导致你的手机无法开机。请放心。
+
+first please allow me to show scorn to the locking of TikTok (American & Asian version)
+
+There’re actually many ways to get access to it and we’ll choose the easier one.
+
+I’ve already updated my device to Android Pie in which Xposed is not available. And I found another way to achieve this goal.
+
+
+Please wait a minute after booting.
 
 Please feel safe for this module would not make your device unable to boot.
 If you do not live in China, please don't install.
