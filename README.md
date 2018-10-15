@@ -1,15 +1,5 @@
 ## TikTok Unlock In China 抖音国际版解锁
 
-首先我对抖音国际版本（美版和亚洲版本），锁区表示鄙视。
-
-其实进去的方法也有很多，那个对咱们方便就用那个。
-
-我已经升级到Android 9.0了，没有Xposed。于是就找到了另一个方法。同样实现此目标。
-
-开机之后请耐心等待一分钟。
-
-此模块不会导致你的手机无法开机。请放心。
-
 first please allow me to show scorn to the locking of TikTok (American & Asian version)
 
 There’re actually many ways to get access to it and we’ll choose the easier one.
@@ -23,6 +13,17 @@ Please feel safe for this module would not make your device unable to boot.
 If you do not live in China, please don't install.
 
 (This module is and only is available in China.)
+
+首先我对抖音国际版本（美版和亚洲版本），锁区表示鄙视。
+
+其实进去的方法也有很多，那个对咱们方便就用那个。
+
+我已经升级到Android 9.0了，没有Xposed。于是就找到了另一个方法。同样实现此目标。
+
+开机之后请耐心等待一分钟。
+
+此模块不会导致你的手机无法开机。请放心。
+
 
  ## Acknowledgements to the fellow friends as follows 感谢以下人员的贡献
 
