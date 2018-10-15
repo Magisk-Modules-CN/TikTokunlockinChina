@@ -41,6 +41,10 @@ emmmm，我自己也是需要感谢的。
 
 @联盟少侠 from coolapk, thanks for my own efforts
 
+* [酷安夕风晨雨](http://www.coolapk.com/u/1148582)    感谢夕风晨雨大大的翻译。
+
+@夕风晨雨 from coolapk
+
 ## Feedback 问题反馈
 * [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/TikTok-unlock-in-China/issues/new)
 
